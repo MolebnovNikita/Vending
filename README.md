@@ -20,17 +20,11 @@ _________________________________________________________________
 5. Войти: rushan.chernyshov@inbox.ru / HFGDRET765
 ```
 
-## Главная менюшка
-<img width="1186" height="692" alt="image" src="https://github.com/user-attachments/assets/37625fdd-f9bf-4f53-936b-fa14744bed5b" />
-
 ## Кнопка монитор ТА
 <img width="1284" height="691" alt="image" src="https://github.com/user-attachments/assets/b756f717-e8c7-473b-a1fd-96fdfb845f6f" />
 
 ## Кнопка Администрирование ТА
 <img width="1184" height="688" alt="image" src="https://github.com/user-attachments/assets/1e0152ef-66e6-4489-ab48-e17b3df89dd3" />
-
-## Профиль
-<img width="1183" height="689" alt="image" src="https://github.com/user-attachments/assets/f0a4099a-3700-4b4c-874f-e826c975d231" />
 
 ## Запуск API
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/62d0a225-1006-4999-9d25-656d38924a27" />
